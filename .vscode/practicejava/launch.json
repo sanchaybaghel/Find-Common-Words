@@ -1,0 +1,108 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Recursion6",
+      "request": "launch",
+      "mainClass": "Recursion6",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "Recursion5",
+      "request": "launch",
+      "mainClass": "Recursion5",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "Recursion4",
+      "request": "launch",
+      "mainClass": "Recursion4",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "Digittoword",
+      "request": "launch",
+      "mainClass": "Digittoword",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "OOPS3",
+      "request": "launch",
+      "mainClass": "OOPS3",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "Practic",
+      "request": "launch",
+      "mainClass": "Practic",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "Pattern",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "pattrn",
+      "request": "launch",
+      "mainClass": "pattrn",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "OOPS2",
+      "request": "launch",
+      "mainClass": "OOPS2",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "Student$OOPS2",
+      "request": "launch",
+      "mainClass": "Student$OOPS2",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "Recursion3",
+      "request": "launch",
+      "mainClass": "Recursion3",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "type": "java",
+      "name": "OOps",
+      "request": "launch",
+      "mainClass": "OOps",
+      "projectName": "java 2_5be6356d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/java 2",
+      "program": "d:/java 2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

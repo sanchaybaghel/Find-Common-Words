@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "leetcode",
+        ".vscode/recursion",
+        ".vscode/practicejava",
+        ".vscode/patterns",
+        ".vscode/math",
+        ".vscode/leetcode",
+        ".vscode/binary search",
+        ".vscode/array",
+        ".vscode/Stack",
+        ".vscode/LinkedList",
+        ".vscode/Heap",
+        ".vscode/Graph",
+        ".vscode/Backtraccking",
+        ".vscode/String"
+    ]
+}
